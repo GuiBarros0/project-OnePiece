@@ -1,3 +1,18 @@
 body {
     background-color: #000000;
 }
+
+main .personagem {
+    display: none;
+    height: 100vh;
+}
+
+main .personagem.selecionado {
+    display: block !important;
+}
+
+main .personagem .imagem {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
