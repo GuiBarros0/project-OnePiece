@@ -16,3 +16,25 @@ main .personagem .imagem {
     height: 100%;
     object-fit: cover;
 }
+
+.conteudo {
+    position: absolute;
+    top: 0;
+    left: 120px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100vh;
+    max-width: 380px;
+}
+
+.conteudo .nome-personagem {
+    background-color: goldenrod;
+    color: #ffffff;
+    font-size: 48px;
+    font-family: "Secular one";
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
