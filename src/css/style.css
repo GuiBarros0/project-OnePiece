@@ -53,6 +53,7 @@ main .personagem .imagem {
 .conteudo .descricao {
     color: #ffffff;
     font-family: "Rubik";
+    text-align: justify;
     font-size: 1rem;
     line-height: 24px;
 }
