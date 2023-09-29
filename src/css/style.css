@@ -30,11 +30,17 @@ main .personagem .imagem {
 }
 
 .conteudo .nome-personagem {
-    background-color: goldenrod;
     color: #ffffff;
     font-size: 48px;
     font-family: "Secular one";
     font-weight: 400;
     margin-bottom: 20px;
+}
+
+.conteudo .descricao {
+    color: #ffffff;
+    font-family: "Rubik";
+    font-size: 1rem;
+    line-height: 24px;
 }
 
