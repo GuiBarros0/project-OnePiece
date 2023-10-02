@@ -1,5 +1,8 @@
 # PROJETO ONE PIECE - Dev em Dobro
 
+Estou disponibilizando o link do site.
+https://guibarros0.github.io/project-OnePiece/
+
 ## Objetivo
 
 A principal intenção deste projeto é adquirir experiência e habilidades em HTML, CSS e JavaScript.
@@ -31,7 +34,5 @@ Primeiro na parte de HTML,em que foi colocado todas as imagens direto no HTML, n
 Já no css também foi utilizado conceitos diferentes, como as animações que foi colocado na lista dos personagens, além de outros conceitos de css, como o "::before" por exemplo.
 
 Estou satisfeito por estar aprendendo muito sobre programação front-end e pretendo continuar estudando e praticando.
-
-Estou disponibilizando o link do site.
 
 Obrigado por ler até aqui, te desejo uma ótima semana, até mais. 👋
