@@ -1,8 +1,7 @@
 # PROJETO ONE PIECE - Dev em Dobro
 
-#####Estou disponibilizando o link do site.
-
-######https://guibarros0.github.io/project-OnePiece/
+Estou disponibilizando o link do site.
+https://guibarros0.github.io/project-OnePiece/
 
 ## Objetivo
 
